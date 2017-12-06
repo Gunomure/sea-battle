@@ -1,0 +1,18 @@
+td{
+    border:solid 1px black;
+    width: 30px; height: 30px;
+}
+.index
+{border:none;}
+
+.ship
+{background-color: black;}
+.fired
+{border:solid 3px red;}
+.errored
+{border:solid 3px blue;}
+
+.left { position: absolute; } 
+.right { position: relative; float: right; }
+
+.red {color: red;}
